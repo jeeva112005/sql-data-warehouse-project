@@ -33,11 +33,10 @@ these insights empower stakeholders with key business metrics,enabling strategic
 
 ---
 
-## License⭐
+## ⭐ License
  This projec licensed under the [MIT License) (LICENSE). You are free to use, modify, and share this project with proper attribution.
 
-## About Me⭐
- Hi there! I'm "Baraa Khatib Salkini, also known as Data With Baraa**. I'm an IT professional and passionate YouTuber on a mission to share knowl enjoyable and engaging!
-
+## 👨‍🎓  About Me
+Hi there! Im Jeevananthan.v , Im a Artificial intelligence and Data science student final year and Im here to share about my knowledege!
 
 
