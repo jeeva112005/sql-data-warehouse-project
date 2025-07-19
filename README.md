@@ -34,7 +34,7 @@ these insights empower stakeholders with key business metrics,enabling strategic
 ---
 
 ## ⭐ License
- This projec licensed under the [MIT License) (LICENSE). You are free to use, modify, and share this project with proper attribution.
+ This project licensed under the [MIT License) (LICENSE). You are free to use, modify, and share this project with proper attribution.
 
 ## 👨‍🎓  About Me
 Hi there! Im Jeevananthan.v , Im a Artificial intelligence and Data science student final year and Im here to share about my knowledege!
